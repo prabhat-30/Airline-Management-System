@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+*.iml
+
+# Compiled files and folders
+out/
+target/
+
+# Large binary files
+*.jar
+*.exe
+*.txt
