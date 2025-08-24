@@ -8,5 +8,12 @@ target/
 
 # Large binary files
 *.jar
-*.exe
 *.txt
+
+
+exe setup/
+
+SkyApp.jar
+TKT-8CEC1CC2.txt
+manifest.txt
+projects.iml
