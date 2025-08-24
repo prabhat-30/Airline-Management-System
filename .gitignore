@@ -4,10 +4,10 @@
 
 # Compiled files and folders
 out/
-target/
+
 
 # Large binary files
-*.jar
+
 *.txt
 
 
